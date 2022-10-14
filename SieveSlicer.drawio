@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T07:57:53.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WC0d3FEW37ee6Mlf5gL8" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T08:08:46.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="opulGBaR4r6pIPDNr9dl" version="20.4.0" type="github">
   <diagram id="U9NmqQDuDl-t8x4wuWcX" name="第 1 页">
-    <mxGraphModel dx="946" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1940" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,6 +201,39 @@
               <mxPoint x="150" y="1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-64" value="Messed&lt;br&gt;logstash、 otherCollectors" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=20;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="1290" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-66" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Messed Files、Stdout、Events...&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1380" width="670" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-67" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-11.18" y="1190" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-63" value="Messed Logs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1200" width="201.18" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontSize=24;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.327;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mw7In8H4w5vTyK6ZN-GI-66" target="Mw7In8H4w5vTyK6ZN-GI-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1540" as="sourcePoint" />
+            <mxPoint x="290" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fontSize=24;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="880" as="sourcePoint" />
+            <mxPoint x="40" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-72" value="More Standarder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="73.82" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-74" value="More Orderlier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw7In8H4w5vTyK6ZN-GI-75" value="Fully Structured" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="73.82" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
