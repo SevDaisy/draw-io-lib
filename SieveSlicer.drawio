@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T00:57:54.768Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wsv9yqy4iloTYHxwmAdF" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T01:00:22.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="El-Fpmiz6x2FjvA0AKF8" version="20.4.2" type="github">
   <diagram id="U9NmqQDuDl-t8x4wuWcX" name="第 1 页">
-    <mxGraphModel dx="1718" dy="1243" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1159" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -392,9 +392,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KB6jE1plS6S5uRUsKBrv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;strokeWidth=1;strokeColor=#FF9933;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1570" width="710" height="110" as="geometry" />
+          <mxGeometry x="1510" y="1550" width="710" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KB6jE1plS6S5uRUsKBrv-5" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;数据湖&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=#9673a6;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="KB6jE1plS6S5uRUsKBrv-5" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;数据湖&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=#9673a6;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1510" y="1980" width="710" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KB6jE1plS6S5uRUsKBrv-13" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=4;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
@@ -407,7 +407,7 @@
           <mxGeometry x="1765" y="1450" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KB6jE1plS6S5uRUsKBrv-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1510" y="1712" width="710" height="240" as="geometry" />
+          <mxGeometry x="1510" y="1692" width="710" height="240" as="geometry" />
         </mxCell>
         <mxCell id="KB6jE1plS6S5uRUsKBrv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;strokeColor=#d6b656;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="KB6jE1plS6S5uRUsKBrv-15">
           <mxGeometry width="710" height="240" as="geometry" />
@@ -438,6 +438,12 @@
         </mxCell>
         <mxCell id="KB6jE1plS6S5uRUsKBrv-16" value="服务前端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;pointerEvents=0;strokeWidth=3;fontFamily=Helvetica;fontSize=36;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1605" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KB6jE1plS6S5uRUsKBrv-19" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1493" y="1951" as="sourcePoint" />
+            <mxPoint x="2253" y="1951" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
